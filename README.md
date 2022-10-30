@@ -16,12 +16,11 @@ Skills: C/JAVA/SQL/ HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tauhid9)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid9)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tauhid9&show_icons=true&count_private=true)  
+  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tauhid9)  
 
-![GitHub metrics](https://metrics.lecoq.io/Tauhid9)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tauhid9)  
 
